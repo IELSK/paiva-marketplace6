@@ -27,4 +27,9 @@ http://labeninjas-6.surge.sh/
 ![image](https://user-images.githubusercontent.com/48807462/120123067-2f195d00-c183-11eb-8801-23e5bf26964f.png)
 ![image](https://user-images.githubusercontent.com/48807462/120122795-7c94ca80-c181-11eb-9f8c-46ebd540732e.png)
 
-
+##Devs
+Pedro Rodrigues - @IELSK
+Vitor Suzuki - @vitorszk
+Priscila Ferrari - @priscilaferrari
+Matheus Alves Garrido - @alvesgarrido
+Bruna Barlach - @barlach2
